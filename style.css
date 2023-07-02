@@ -1,0 +1,10 @@
+p{
+    padding: 10px;
+    font-size: 16px;
+    min-width: 100px;
+    width: 300px;
+    border: 2px solid plum ;
+    border-radius: 4px;
+    box-shadow: 1px 3px 5px rgb(232, 72, 232);
+    cursor: pointer;
+}
